@@ -1,0 +1,18 @@
+{
+  "result": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Frederikke",
+        "last": "Petersen"
+      },
+      "location": {
+        "street": {
+          "number": 140,
+          "name": "Pilevangen"
+        }
+      }
+    }
+  ]
+}
